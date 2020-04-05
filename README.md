@@ -18,5 +18,6 @@ A scraper made with node.js,cheerio and request-promise
 * https://www.npmjs.com/package/request-promise
 * https://jsonlint.com/
 * https://regexr.com/
+* https://learnscraping.com/
 
 #####NOTE:Only public accounts
